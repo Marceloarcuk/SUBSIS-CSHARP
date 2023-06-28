@@ -1,2 +1,0 @@
-C:\Desenvolvimento\SUBSIS\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
-C:\Desenvolvimento\SUBSIS\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\DITI_JOVEM.exe.config
